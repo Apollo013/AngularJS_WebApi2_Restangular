@@ -1,0 +1,18 @@
+﻿
+<div ng-controller="CustomersController">
+    <h1 ng-bind="title"></h1>
+    <p>
+        <input class="form-control" placeholder="Search by name" type="text" ng-model="search" ng-model-options="{ debounce: 500 }" />
+    </p>
+    <table ng-table="tableParams" class="table">
+        <tr ng-repeat="customer in $data">
+            <td data-title="'First Name'" data-sortable="'firstName'" ng-bind="customer.firstName"></td>
+            <td data-title="'Last Name'" data-sortable="'lastName'" ng-bind="customer.lastName"></td>
+        </tr>
+    </table>
+
+    <!--<p ng-repeat="customer in customers">
+        <span ng-bind="customer.firstName + ' ' + customer.lastName"></span>
+    </p>
+        -->
+</div> 

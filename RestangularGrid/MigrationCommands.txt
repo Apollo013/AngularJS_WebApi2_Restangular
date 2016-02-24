@@ -1,0 +1,3 @@
+﻿enable-migrations -ContextTypeName:RestangularGrid.Models.DemoContext -MigrationsDirectory:Migrations_DemoContext
+add-migration -configuration RestangularGrid.Migrations_DemoContext.Configuration InitialCreate
+update-database -configuration RestangularGrid.Migrations_DemoContext.Configuration
