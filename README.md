@@ -3,6 +3,8 @@ A nuts and bolts ASP.NET Web Api 2 app demonstrating the Restangular service in 
 
 Restangular is an AngularJS service to handle Rest API Restful Resources properly and easily.
 
+This app was built using Visual Studio 2015
+
 
 #####Information Sources#####
 https://github.com/esvit/ng-table/wiki/Configuring-your-table-with-ngTableParams
