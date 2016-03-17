@@ -1,5 +1,5 @@
 # Restangular_ng-Table
-A nuts and bolts ASP.NET Web Api 2 app demonstrating the Restangular service in conjunction with ng-Table. It shows not only how to access data through the service, but also display, page, sort & filter data using ng-Table.
+A nuts and bolts ASP.NET Web Api 2 app demonstrating the Restangular service in conjunction with ng-Table. It shows not only how to access data through a Restangular service, but also how to display, page, sort & filter data using ng-Table.
 
 Restangular is an AngularJS service to handle Rest API Restful Resources properly and easily.
 
