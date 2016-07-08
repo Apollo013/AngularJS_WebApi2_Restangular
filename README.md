@@ -32,6 +32,9 @@ This app was built using Visual Studio 2015
 | Making RESTful calls with Restangular |
 | IQueryable(T) extension method that uses Dynamic Linq for Dynamic sorting of queries |
 | Paging with Linq |
+| Filtering using Predicates |
+| Loading & Displaying data with ng-Table|
+| Watching changes to search criteria using $watch |
 
 ---
 
