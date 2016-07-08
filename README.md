@@ -6,7 +6,9 @@ Restangular is an AngularJS service to handle Rest API Restful Resources properl
 This app was built using Visual Studio 2015
 
 
-#####Information Sources#####
-https://github.com/esvit/ng-table/wiki/Configuring-your-table-with-ngTableParams
-
-https://github.com/mgonto/restangular
+####Resources
+|Title|Author|Publisher|
+|-----|------|---------|
+|[Implementing REST services in AngularJS using Restangular](http://arian-celina.com/implementing-rest-services-in-angularjs-using-restangular/)|Arian Celina| |
+|[Configuring your table with ngTableParams](https://github.com/esvit/ng-table/wiki/Configuring-your-table-with-ngTableParams)| Jonathan Schoonhoven | Github |
+|[mgonto/restangular](https://github.com/mgonto/restangular)| daviesgeek | Github |
