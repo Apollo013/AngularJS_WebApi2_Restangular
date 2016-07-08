@@ -26,6 +26,15 @@ This app was built using Visual Studio 2015
 
 ---
 
+####Features
+|Feature|
+|-------|
+| Making RESTful calls with Restangular |
+| IQueryable(T) extension method that uses Dynamic Linq for Dynamic sorting of queries |
+| Paging with Linq |
+
+---
+
 ####Resources
 |Title|Author|Publisher|
 |-----|------|---------|
