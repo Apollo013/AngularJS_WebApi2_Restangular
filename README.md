@@ -12,6 +12,20 @@ This app was built using Visual Studio 2015
 
 ---
 
+####Techs
+|Tech|
+|----|
+|AngularJS|
+|WebApi2|
+|OWIN|
+|Dynamic Linq|
+|Restangular|
+|ng-Table|
+|HTML|
+|CSS|
+
+---
+
 ####Resources
 |Title|Author|Publisher|
 |-----|------|---------|
