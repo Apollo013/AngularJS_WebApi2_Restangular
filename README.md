@@ -2,7 +2,7 @@
  
  ---
  
- ### Description
+### Description
  
 An ASP.NET Web Api 2 app demonstrating the Restangular plugin in conjunction with ng-Table. It shows not only how to access data through a Restangular service, but also how to display, page, sort & filter data using ng-Table.
 
