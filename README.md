@@ -14,7 +14,7 @@ Developed using Visual Studio 2015 Community
 
 ---
 
-####Techs
+### Techs
 |Tech|
 |----|
 |AngularJS|
@@ -29,7 +29,7 @@ Developed using Visual Studio 2015 Community
 
 ---
 
-####Features
+### Features
 |Feature|
 |-------|
 | Making RESTful calls with Restangular |
@@ -41,7 +41,7 @@ Developed using Visual Studio 2015 Community
 
 ---
 
-####Resources
+### Resources
 |Title|Author|Publisher|
 |-----|------|---------|
 |[Implementing REST services in AngularJS using Restangular](http://arian-celina.com/implementing-rest-services-in-angularjs-using-restangular/)|Arian Celina| |
